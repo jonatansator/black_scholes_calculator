@@ -36,10 +36,13 @@
 
 ## Features
 - Real-time updates: Adjust inputs and see immediate results in both text and graphical form.
-- Dark-themed GUI for better visibility.
 - Plot includes:
   - Call price curve
   - Put price curve
   - Current price marker
   - Strike price marker
 - Input validation to ensure positive values (except rate) and non-negative rate.
+
+## Screenshots
+![output](output.png)
+
